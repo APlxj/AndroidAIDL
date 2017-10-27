@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIDLClient/AIDLClient.iml" filepath="$PROJECT_DIR$/AIDLClient/AIDLClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIDLService/AIDLService.iml" filepath="$PROJECT_DIR$/AIDLService/AIDLService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidAIDLClient.iml" filepath="$PROJECT_DIR$/AndroidAIDLClient.iml" />
+    </modules>
+  </component>
+</project>
